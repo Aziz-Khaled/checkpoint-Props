@@ -1,0 +1,13 @@
+- create react -app 
+- create components folder
+- in components folder create a components named greeting
+- in this greeting component return a " welcome name" 
+- import this component to the app.js
+-  in the app. js  import also bootstrap navbar
+- in the app.js  insert the greeting component and give it a props
+ (exemple : name = ADY   or name = Emna )
+
+ make sure that you put props in the greeting components
+
+  be creative !!!
+- insert the greeting components 3 times and change the props every time okay :!

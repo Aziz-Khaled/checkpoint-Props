@@ -8,8 +8,9 @@ function App() {
     <div className="App">
       <Biog fullName ='Aziz Khaled'
             bio ='many records to be honest '
-            profession ='a freelancer '
-            children ='logo192.png'
+            Profession =' freelancer '
+            children ="logo192.png"
+            
       />
     </div>
   );
